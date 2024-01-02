@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: darkcyan;
+    margin: 30px;
+    margin-bottom: 50px;
+}
+.h1-span{
+    color: rgb(104, 104, 227);
+}
+
+img{
+    width: 450px;
+    height: 450px;
+    margin: 2px 250px;
+    box-shadow: 10px 10px 20px 5px rgba(110, 233, 255, 0.583);
+}
+
+h3{
+    background-color: antiquewhite;
+    color: rgb(255, 102, 102);
+    margin: 20px 0px;
+}
+
+p{
+    margin: 20px;
+    background-color: rgba(168, 255, 198, 0.264);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn{
+    margin-left: 22px;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}
